@@ -1,1 +1,4 @@
-# PJ-Transverse
+# Ecosystem
+
+App to encourage and motivate recycling
+
